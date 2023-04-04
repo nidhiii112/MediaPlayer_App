@@ -7,9 +7,7 @@ and second is for timeline of the song.
 
 
 #Interface of MediaPlayer_Application:-
-![image1](https://user-images.githubusercontent.com/117963273/229865707-0b11e326-b46d-4702-aa69-7b3f507c844e.jpg)
-
-![image2](https://user-images.githubusercontent.com/117963273/229865779-9f7f3003-0f38-404c-b9af-fed22b4eec5a.jpg)
+![image1](https://user-images.githubusercontent.com/117963273/229865707-0b11e326-b46d-4702-aa69-7b3f507c844e.jpg) ![image2](https://user-images.githubusercontent.com/117963273/229865779-9f7f3003-0f38-404c-b9af-fed22b4eec5a.jpg)
 
 #About this Apllictaion:-
 
